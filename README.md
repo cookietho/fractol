@@ -17,9 +17,15 @@
 ##### Multi-threading implementation.
 ##### Two valid parameters in the command line, resulting in two fractals in two windows.
 
+![Mandelbrot](https://github.com/cookietho/fractol/blob/master/Mandelbrot.gif)
+
+![Julia](https://github.com/cookietho/fractol/blob/master/Julia.gif)
+
 ##  How to use
 ##### 1.git clone 
 ##### 2.cd to fractol directory
 ##### 3.run make to compile a nd link the sources
 ##### 4.make will create an excutable file called fractol
 ##### 5.excution: ./fractol Set name
+
+![multiple](https://github.com/cookietho/fractol/blob/master/Multiple.gif)
