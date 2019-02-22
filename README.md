@@ -9,9 +9,14 @@
 ##### You must use the miniLibX.
 ##### Your software should offer at least 3 different types of fractals.
 ##### It must be possible to make the parameter of the Julia set vary only with the mouse (without clicking).
-##### 
+
 ## Bonus Part
-##### 
+##### The zoom follow the actual mouse position.
+##### In addition to the zoom: moving with the arrows.
+##### Make the color range shift.
+##### Multi-threading implementation.
+##### Two valid parameters in the command line, resulting in two fractals in two windows.
+
 ##  How to use
 ##### 1.git clone 
 ##### 2.cd to fractol directory
