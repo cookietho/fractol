@@ -22,7 +22,7 @@
 ![Julia](https://github.com/cookietho/fractol/blob/master/Julia.gif)
 
 ##  How to use
-##### 1.git clone 
+##### 1.git clone https://github.com/cookietho/fractol.git
 ##### 2.cd to fractol directory
 ##### 3.run make to compile a nd link the sources
 ##### 4.make will create an excutable file called fractol
