@@ -1,5 +1,5 @@
 # fractol
-##### The goal of this project is to greate a program that creates and optimizes a visualized mathematical object called a fractal. Fractal is an abstract mathematical object, like a curve or a surface, which has a similar pattern whatever the scale. 
+##### The goal of this project is to create a program that creates and optimizes a visualized mathematical object called a fractal. Fractal is an abstract mathematical object, like a curve or a surface, which has a similar pattern whatever the scale. 
 
 ##  Mandatory Part
 ##### Your program cannot have memory leaks.
@@ -24,7 +24,7 @@
 ##  How to use
 ##### 1.git clone https://github.com/cookietho/fractol.git
 ##### 2.cd to fractol directory
-##### 3.run make to compile a nd link the sources
+##### 3.run make to compile and link the sources
 ##### 4.make will create an excutable file called fractol
 ##### 5.excution: ./fractol Set name
 
