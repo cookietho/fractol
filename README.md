@@ -3,19 +3,19 @@ The goal of this project is to create a program that creates and optimizes a vis
 
 ## Mandatory Part
 Your program cannot have memory leaks.</br>
-You cannot use global variables.
-Your project must follow the Norm.
-Your Makefile must compile the project and must contain the usual rules. It must not recompile and re-link the program unless necessary.
-You must use the miniLibX.
-Your software should offer at least 3 different types of fractals.
-It must be possible to make the parameter of the Julia set vary only with the mouse (without clicking).
+You cannot use global variables.</br>
+Your project must follow the Norm.</br>
+Your Makefile must compile the project and must contain the usual rules. It must not recompile and re-link the program unless necessary.</br>
+You must use the miniLibX.</br>
+Your software should offer at least 3 different types of fractals.</br>
+It must be possible to make the parameter of the Julia set vary only with the mouse (without clicking).</br>
 
 ## Bonus Part
-The zoom follow the actual mouse position.
-In addition to the zoom: moving with the arrows.
-Make the color range shift.
-Multi-threading implementation.
-Two valid parameters in the command line, resulting in two fractals in two windows.
+The zoom follow the actual mouse position.</br>
+In addition to the zoom: moving with the arrows.</br>
+Make the color range shift.</br>
+Multi-threading implementation.</br>
+Two valid parameters in the command line, resulting in two fractals in two windows.</br>
 
 ![Mandelbrot](https://github.com/cookietho/fractol/blob/master/Mandelbrot.gif)
 
