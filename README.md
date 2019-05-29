@@ -2,7 +2,7 @@
 The goal of this project is to create a program that creates and optimizes a visualized mathematical object called a fractal. Fractal is an abstract mathematical object, like a curve or a surface, which has a similar pattern whatever the scale. 
 
 ## Mandatory Part
-Your program cannot have memory leaks.
+Your program cannot have memory leaks.</br>
 You cannot use global variables.
 Your project must follow the Norm.
 Your Makefile must compile the project and must contain the usual rules. It must not recompile and re-link the program unless necessary.
